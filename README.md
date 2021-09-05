@@ -3,4 +3,4 @@ A repository of projects for the design and development of data models, data war
 
 ## Projects
 
-**PostgreSQL ETL** :light_check_mark:
+**PostgreSQL ETL** ✔️
