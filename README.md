@@ -5,3 +5,4 @@ A repository of projects for the design and development of data models, data war
 
 **PostgreSQL ETL**&nbsp;&nbsp;:white_check_mark:
 
+**Cassandra NoSQL**&nbsp;&nbsp;⏳
