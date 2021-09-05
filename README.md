@@ -3,5 +3,5 @@ A repository of projects for the design and development of data models, data war
 
 ## Projects
 
-**PostgreSQL ETL** :ballot_box_with_check:
+**PostgreSQL ETL**&nbsp;&nbsp;:white_check_mark:
 
