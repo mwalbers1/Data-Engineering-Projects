@@ -3,10 +3,10 @@ A repository of projects for the design and development of data models, data war
 
 ## Projects
 ---
-[PostgreSQL ETL](PostgreSQL%20ETL/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
+[Data Modeling with Postgres](PostgreSQL%20ETL/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;Design and create data model for fictitious music company called Sparkify based on the STAR schema. Build Python ETL (Extract, Transform, and Load) process in Python to load the data model. This project was for the Udacity Data Engineering Nanodegree.<br/>
 
-[Cassandra NoSQL](Cassandra%20NoSQL/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
+[Data Modeling with Apache Cassandra](Cassandra%20NoSQL/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;Ingest large amounts of data into NoSQL database called Apache Cassandra. Design is based on query-first approach for design of load processes into data tables in Cassandra.<br/>
 
 [HDFS Command Line](HDFS-Command-Line/README.md) &nbsp;&nbsp; :hourglass_flowing_sand:<br/>
