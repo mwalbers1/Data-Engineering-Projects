@@ -9,6 +9,9 @@ A repository of projects for the design and development of data models, data war
 [Cassandra NoSQL](Cassandra%20NoSQL/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;Ingest large amounts of data into NoSQL database called Apache Cassandra. Design is based on query-first approach for design of load processes into data tables in Cassandra.<br/>
 
+[HDFS Command Line](HDFS-Command-Line/README.md) &nbsp;&nbsp; :hourglass_flowing_sand:<br/>
+ -&nbsp;A practice project for HDFS Command line.
+
 [Data Ingestion Kafka and Flume](Data-Ingestion_Kafka_Flume/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;This project is from SimpliLearn Big Data Hadoop and Spark Developer certification. It details steps for setting up a data ingestion process between Kafka and Flume.<br/>
 

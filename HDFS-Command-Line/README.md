@@ -1,5 +1,5 @@
 # HDFS Command Line
-This is a practice project from the SimpliLearn Big Data Hadoop and Spark Developer certification. The goal of this project is to practice HDFS from the command line.
+This is a practice project from the SimpliLearn Big Data Hadoop and Spark Developer certification. The goal of this project is to practice HDFS commands from the command line terminal.
 
 ## Description
 
@@ -7,7 +7,7 @@ Using command lines of HDFS, perform the below tasks:
 
 * Create a directory named “Simplilearn“ in HDFS
  
-* Transfer a sample text file from your local filesystem to HDFS directory
+* Transfer a sample text file from your local file system to HDFS directory
  
 * List the files in HDFS directory
  
@@ -21,7 +21,7 @@ Create a directory named “Simplilearn"
 
          hdfs dfs -mkdir Simplilearn 
 
-Transfer a sample text file from your local filesystem to HDFS directory
+Transfer a sample text file from your local file system to HDFS directory
 
          hdfs dfs -put /home/simplilearn_learner/test.txt Simplilearn
 
