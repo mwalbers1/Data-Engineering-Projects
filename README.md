@@ -3,9 +3,8 @@ A repository of projects for the design and development of data models, data war
 
 ## Certification Projects
 
-##### A listing of completed projects for the <a href="https://www.udacity.com/course/data-engineer-nanodegree--nd027" target="_blank">Udacity Data Engineering Nanodegree</a> and the <a href="https://www.simplilearn.com/big-data-and-analytics/big-data-and-hadoop-training?referrer=search&tag=Big%20Data%20Hadoop" target="_blank">SimpliLearn Big Data Hadoop and Spark Developer</a> certifications:
-<br/>
-
+A listing of completed projects for the <a href="https://www.udacity.com/course/data-engineer-nanodegree--nd027" target="_blank">Udacity Data Engineering Nanodegree</a> and the <a href="https://www.simplilearn.com/big-data-and-analytics/big-data-and-hadoop-training?referrer=search&tag=Big%20Data%20Hadoop" target="_blank">SimpliLearn Big Data Hadoop and Spark Developer</a> certifications:
+<br/><br/>
 [Data Modeling with Postgres](PostgreSQL%20ETL/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;Design and create data model for fictitious music company called Sparkify based on the STAR schema. Build Python ETL (Extract, Transform, and Load) process in Python to load the data model. This project was for the Udacity Data Engineering Nanodegree.<br/>
 
