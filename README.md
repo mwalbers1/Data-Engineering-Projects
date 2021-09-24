@@ -11,7 +11,7 @@ A listing of completed projects for the <a href="https://www.udacity.com/course/
 [Data Modeling with Apache Cassandra](Cassandra%20NoSQL/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;Ingest large amounts of data into NoSQL database called Apache Cassandra. Design is based on query-first approach for design of load processes into data tables in Cassandra.<br/>
 
-[HDFS Command Line](HDFS-Command-Line/README.md) &nbsp;&nbsp; :hourglass_flowing_sand:<br/>
+[HDFS Command Line](HDFS-Command-Line/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
  -&nbsp;A practice project for HDFS Command line.
 
 [Data Ingestion Kafka and Flume](Data-Ingestion_Kafka_Flume/README.md) &nbsp;&nbsp; :hourglass_flowing_sand:<br/>
