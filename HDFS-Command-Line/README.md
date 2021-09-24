@@ -1,39 +1,49 @@
 # HDFS Command Line
 This is a practice project from the SimpliLearn Big Data Hadoop and Spark Developer certification. The goal of this project is to practice HDFS commands from the command line terminal.
 
-## Description
-
-Using command lines of HDFS, perform the below tasks:
-
-* Create a directory named “Simplilearn“ in HDFS
- 
-* Transfer a sample text file from your local file system to HDFS directory
- 
-* List the files in HDFS directory
- 
-* Change the permissions on the file to read, write, and execute
- 
-* Remove the text file from HDFS directory
 
 ## Steps to Perform
+Using command lines of HDFS, perform the below tasks:
 
-Create a directory named “Simplilearn"
+**1. Check if "nyse" hdfs directory exists**
 
-         hdfs dfs -mkdir Simplilearn 
+         hdfs dfs -ls nyse
+         
+![](Images/hdfs_dfs_ls_nyse.png)
 
-Transfer a sample text file from your local file system to HDFS directory
+**2. Create a directory named “nyse"**
 
-         hdfs dfs -put /home/simplilearn_learner/test.txt Simplilearn
+         hdfs dfs -mkdir nyse
+![](Images/hdfs_dfs_ls_user_maew711gmail.png)
 
-List the files in HDFS directory
+**3. Transfer a sample text file from your local file system to HDFS directory**
 
-         hdfs dfs -ls Simplilearn 
+         hdfs dfs -put /mnt/home/maew711gmail/nyse/StockPrices.csv nyse
+         hdfs dfs -put /mnt/home/maew711gmail/nyse/Stockcompanies.csv nyse
 
-Change the permissions on the file to read, write and execute
+**4. List the files in HDFS directory**
 
-         hdfs dfs -chmod 700 Simplilearn/test.txt  
+         hdfs dfs -ls /user/maew711gmail/nyse 
 
-Remove the text file from HDFS directory
+![](Images/hdfs_dfs_ls_nyse2.png)
 
-        hdfs dfs -rm -r Simplilearn/test.txt 
+**5. Change the permissions on the file to read, write and execute**
+
+         hdfs dfs -chmod 700 nyse/Stockcompanies.csv
+![](Images/hdfs_dfs_ls_nyse3.png)
+<br/>
+
+## Spark Shell at Command Line
+
+**1. Launch Spark Shell**
+
+![](Images/launch_spark-shell.png)
+
+**2. Read Stock Prices CSV file into DataFrame**
+
+    val df = spark.read.format("csv").option("header", "true").option("inferschema","true").option("delimiter",",").load("/user/maew711gmail/nyse/StockPrices.csv")
+
+    
+
+
 
