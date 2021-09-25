@@ -20,8 +20,11 @@ A listing of completed projects for the <a href="https://www.udacity.com/course/
 [Market Analysis in Banking Domain](Market-Analysis-Banking/README.md) &nbsp;&nbsp; :hourglass_flowing_sand:<br/>
 -&nbsp;Assessment project for SimpliLearn Big Data Hadoop and Spark Developer certification. Use Apache Spark to analyze the results of marketing campaign performed by a Portuguese banking institution.<br/>
 
+[Data Pipeline with Airflow](Data-Pipeline-Airflow/README.md) &nbsp;&nbsp;  :white_check_mark:<br/>
+-&nbsp;An Apache Airflow data pipeline performs ETL from JSON files in AWS S3 to AWS Redshift Data Warehouse
+
 [Data Gathering Project using Python](Data-Gathering-Python/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
--&nbsp;A prerequisite project for the Udacity Data Engineering capstone project.  Use Python Beautiful Soup package library to extract Gapminder and COVID-19 data files.<br/>
+-&nbsp;A prerequisite project for the Udacity Data Engineering Capstone project.  Use Python Beautiful Soup package library to extract Gapminder and COVID-19 data files.<br/>
 
 [Capstone Project](https://github.com/mwalbers1/DEND-Capstone-Project) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;The final project to Udacity's Data Engineering Nanodegree.
