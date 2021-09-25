@@ -11,6 +11,9 @@ A listing of completed projects for the <a href="https://www.udacity.com/course/
 [Data Modeling with Apache Cassandra](Cassandra%20NoSQL/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;Ingest large amounts of data into NoSQL database called Apache Cassandra. Design is based on query-first approach for design of load processes into data tables in Cassandra.<br/>
 
+[Data Warehouse Project](Data-Warehouse-Project/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
+-&nbsp;Build ETL (Extract, Transform and Load) pipeline for music streaming data which resides in AWS (Amazon Web Services) S3 as JSON files. Load the relevant data attributes into staging tables residing on an AWS Redshift cluster data warehouse server.
+
 [HDFS Command Line](HDFS-Command-Line/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
  -&nbsp;A practice project for HDFS Command line.
 
