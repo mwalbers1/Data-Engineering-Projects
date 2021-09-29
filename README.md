@@ -17,7 +17,7 @@ A listing of completed projects for the <a href="https://www.udacity.com/course/
 [HDFS Command Line](HDFS-Command-Line/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
  -&nbsp;A practice project for HDFS Command line.
 
-[Data Ingestion Kafka and Flume](Data-Ingestion_Kafka_Flume/README.md) &nbsp;&nbsp; :hourglass_flowing_sand:<br/>
+[Data Ingestion Kafka and Flume](Data-Ingestion_Kafka_Flume/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;This project is from SimpliLearn Big Data Hadoop and Spark Developer certification. It details steps for setting up a data ingestion process between Kafka and Flume.<br/>
 
 [Market Analysis in Banking Domain](Market-Analysis-Banking/README.md) &nbsp;&nbsp; :hourglass_flowing_sand:<br/>
