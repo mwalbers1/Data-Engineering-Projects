@@ -17,7 +17,7 @@ into HDFS.
 2. Write flume configuration where the source is Kafka and the sink is HDFS
 <br/>
 
-![](images/Apache%20Kafka%20to%20Flume.png)
+![](images/Apache%20Kafka%20to%20Flume.png)<br/>
 *Images sourced from <ins>SimpliLearn Big Data Hadoop and Spark Developer Certification</ins>*
 
 ### 1. Create Kafka Topic
