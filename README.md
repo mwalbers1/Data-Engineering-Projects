@@ -8,13 +8,13 @@ A listing of completed projects for the <a href="https://www.udacity.com/course/
 [Capstone Project](https://github.com/mwalbers1/DEND-Capstone-Project) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;The final project to Udacity's Data Engineering Nanodegree<br/>
 
-[Data Gathering Project using Python](Data-Gathering-Python/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
+[Data Gathering Project using Python](Data-Gathering-Python) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;A prerequisite project for the Udacity Data Engineering Capstone project.  Use Python Beautiful Soup package library to extract Gapminder and COVID-19 data files.<br/>
 
-[Data Modeling with Postgres](PostgreSQL%20ETL/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
+[Data Modeling with Postgres](PostgreSQL%20ETL) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;Design and create data model for fictitious music company called Sparkify based on the STAR schema. Build Python ETL (Extract, Transform, and Load) process in Python to load the data model. This project was for the Udacity Data Engineering Nanodegree.<br/>
 
-[Data Modeling with Apache Cassandra](Cassandra%20NoSQL/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
+[Data Modeling with Apache Cassandra](Cassandra%20NoSQL) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;Ingest large amounts of data into NoSQL database called Apache Cassandra. Design is based on query-first approach for design of load processes into data tables in Cassandra.<br/>
 
 [Data Warehouse Project](Data-Warehouse-Project/README.md) &nbsp;&nbsp; :white_check_mark:<br/>
