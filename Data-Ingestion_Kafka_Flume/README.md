@@ -1,8 +1,24 @@
-## Data Ingestion Kafka to Flume
+## Data Ingestion - Kafka to Flume
+A retail e-commerce giant in the US has a web portal where customers can purchase items, and the sellers can add products, remove the products, and do inventory-related operations. Recently, they started getting a lot of errors on the portal. They have collected these errors from all the applications and compiled them into log CSV files.
 
-### Setup Apache Flume to ingest log data from Apache Kafka
+Processing log files is a big task as an application can generate a lot of logs in a single day. They want to send all logs to HDFS so they can check which are the most frequent errors they are getting.
+
+The error log file containing the below details.
+
+- Dates
+- Server
+- Error message
+
+The goal for this project is to read error logs from Kafka and push it 
+into HDFS. 
+
+#### Setup Apache Flume to ingest log data from Apache Kafka
+1. Create Kafka producer which reads the CSV log file data one by one and pushes it to Kafka
+2. Write flume configuration where the source is Kafka and the sink is HDFS
+
 
 ![](images/Apache%20Kafka%20to%20Flume.png)
+*Images sourced from <ins>SimpliLearn Big Data Hadoop and Spark Certification</ins>*
 
 ### 1. Create Kafka Topic
 
