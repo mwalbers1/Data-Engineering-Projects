@@ -11,6 +11,9 @@ A listing of completed projects for the <a href="https://www.udacity.com/course/
 [Data Gathering Project using Python](Data-Gathering-Python) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;A prerequisite project for the Udacity Data Engineering Capstone project.  Use Python Beautiful Soup package library to extract Gapminder and COVID-19 data files.<br/>
 
+[Data Lake Project - Apache Spark and AWS S3](https://github.com/mwalbers1/DEND-Data-Lake) &nbsp;&nbsp; :white_check_mark:<br/>-&nbsp;Create data lake for storage of large volumes of data. Ingest json files, denormalize json data and load into fact and dimension tables. Then upload
+data into AWS S3 in parquet format.
+
 [Data Modeling with Postgres](PostgreSQL%20ETL) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;Design and create data model for fictitious music company called Sparkify based on the STAR schema. Build Python ETL (Extract, Transform, and Load) process in Python to load the data model. This project was for the Udacity Data Engineering Nanodegree.<br/>
 
