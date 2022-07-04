@@ -1,9 +1,7 @@
 # Data-Engineering-Projects
 A repository of projects for the design and development of data models, data warehouses and data lakes, and automated data pipelines for processing massive data sets. 
 
-## Certification Projects
-
-A listing of completed projects for the <a href="https://www.udacity.com/course/data-engineer-nanodegree--nd027" target="_blank">Udacity Data Engineering Nanodegree</a> and the <a href="https://www.simplilearn.com/big-data-and-analytics/big-data-and-hadoop-training?referrer=search&tag=Big%20Data%20Hadoop" target="_blank">SimpliLearn Big Data Hadoop and Spark Developer</a> certifications:
+Below is a listing of completed projects for the <a href="https://www.udacity.com/course/data-engineer-nanodegree--nd027" target="_blank">Udacity Data Engineering Nanodegree</a> and the <a href="https://www.simplilearn.com/big-data-and-analytics/big-data-and-hadoop-training?referrer=search&tag=Big%20Data%20Hadoop" target="_blank">SimpliLearn Big Data Hadoop and Spark Developer</a> certificate programs:
 <br/><br/>
 [Capstone Project](https://github.com/mwalbers1/DEND-Capstone-Project) &nbsp;&nbsp; :white_check_mark:<br/>
 -&nbsp;The final project to Udacity's Data Engineering Nanodegree<br/>
